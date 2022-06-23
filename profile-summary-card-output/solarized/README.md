@@ -25,10 +25,40 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/mizuki0414/mizuki0414/main/profile-summary-card-output/solarized/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/mizuki0414/mizuki0414/main/profile-summary-card-output/solarized/2-most-commit-language.svg)
+```
+
+    
+
+---
+
 ![](./3-stats.svg)
 
 ```
 ![](https://raw.githubusercontent.com/mizuki0414/mizuki0414/main/profile-summary-card-output/solarized/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/mizuki0414/mizuki0414/main/profile-summary-card-output/solarized/4-productive-time.svg)
 ```
 
     
